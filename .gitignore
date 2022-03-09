@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows thumbnail cache files
 Thumbs.db
 
@@ -16,3 +17,23 @@ misc/
 *.user
 *.pro.user
 *.pro.user.*
+=======
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+build/
+deploy/
+doc/
+misc/
+
+# Qt
+*.user
+*.pro.user
+*.pro.user.*
+>>>>>>> b31553b340274707b56c671b056938e4aa103f20
