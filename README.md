@@ -1,6 +1,8 @@
 # QtProjects
 alimoghanni/QtProject
 
+I am still working on it...
+
 Projects:
 - Phone Book
 - Image Viewer
